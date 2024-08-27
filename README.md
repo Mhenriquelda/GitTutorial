@@ -20,7 +20,7 @@ No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei o
 
 * Escrever dentro dele `Olá, nesse projeto você aprenderá alguns comandos do Git`
 
-* Salva o arquivo
+* Salva o arquivo a
 
 Agora então é hora de usarmos o Git
 
@@ -192,4 +192,4 @@ Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-
 
 **Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://youtube.com/RafaellaBallerini) ❤**
 
-Até semana que vem, um beijo!
+Até semana que vem, um beijo!x
